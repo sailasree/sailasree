@@ -19,7 +19,7 @@ a{
     position: relative;
     background-image: url(../me.jpeg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-position: right bottom;
 }
 #abmain{
