@@ -119,12 +119,12 @@ nav{
     margin: 6px 12px;
 }
 .social i{
-    color:rgba(18,17,17,0.4);
+    color:black;
     font-size:14px;
 
 }
 .social a:hover{
-    color:#17d1ac;
+    color:black;
     transition: all ease 0.5s;
 }
 .arrow{
